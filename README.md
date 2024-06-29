@@ -61,7 +61,7 @@ and:
 
 Here, V<sub>s</sub>, V<sub>e</sub>, A, J, F<sub>max</sub>, L are defined, T<sub>1</sub>, T<sub>2</sub>, T<sub>4</sub>, T<sub>5</sub>, T<sub>6</sub> need to be solved. This is a non-linear and nonhomogeneous equation. Therefore, I decided to use scipy.optimize.minimize to solve this equation. Figure.2 is the flow chart.
 
-![image](https://github.com/Larissa1990/S-curve-Velocity-Profile/blob/master/images/VelocityScheduleFlowChart.png)
+![image](https://github.com/Larissa1990/S-curve-Velocity-Profile/blob/master/images/VelocityScheduleFlowChart1.png)
 
 Figure.2 Velocity schedule flow chart
 
